@@ -1,4 +1,9 @@
-//Write a C++ program to check whether numbers in a vector can be rearranged so that each number appears exactly once in a consecutive list of numbers. Return true otherwise false
+/*Write a C++ program to check whether numbers in a vector can be rearranged so that each number appears exactly once in a consecutive list of numbers. Return true otherwise false
+Sample Data:
+{1, 2 ,5, 7, 4, 3, 6} -> true
+{1, 2 ,5, 0, 3, 6, 7} ->false */
+
+
 
 #include <iostream>
 #include <bits/stdc++.h>
